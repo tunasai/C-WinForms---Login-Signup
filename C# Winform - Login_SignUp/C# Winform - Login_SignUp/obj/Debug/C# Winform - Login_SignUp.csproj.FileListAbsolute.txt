@@ -1,0 +1,9 @@
+C:\Users\ASUS\Documents\SharpDevelop Projects\C# Winform - Login_SignUp\C# Winform - Login_SignUp\obj\Debug\C# Winform - Login_SignUp.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Documents\SharpDevelop Projects\C# Winform - Login_SignUp\C# Winform - Login_SignUp\obj\Debug\C__Winform___Login_SignUp.MainForm.resources
+C:\Users\ASUS\Documents\SharpDevelop Projects\C# Winform - Login_SignUp\C# Winform - Login_SignUp\obj\Debug\C__Winform___Login_SignUp.SignUpForm.resources
+C:\Users\ASUS\Documents\SharpDevelop Projects\C# Winform - Login_SignUp\C# Winform - Login_SignUp\obj\Debug\C# Winform - Login_SignUp.csproj.GenerateResource.Cache
+C:\Users\ASUS\Documents\SharpDevelop Projects\C# Winform - Login_SignUp\C# Winform - Login_SignUp\bin\Debug\C# Winform - Login_SignUp.exe.config
+C:\Users\ASUS\Documents\SharpDevelop Projects\C# Winform - Login_SignUp\C# Winform - Login_SignUp\bin\Debug\C# Winform - Login_SignUp.exe
+C:\Users\ASUS\Documents\SharpDevelop Projects\C# Winform - Login_SignUp\C# Winform - Login_SignUp\bin\Debug\C# Winform - Login_SignUp.pdb
+C:\Users\ASUS\Documents\SharpDevelop Projects\C# Winform - Login_SignUp\C# Winform - Login_SignUp\obj\Debug\C# Winform - Login_SignUp.exe
+C:\Users\ASUS\Documents\SharpDevelop Projects\C# Winform - Login_SignUp\C# Winform - Login_SignUp\obj\Debug\C# Winform - Login_SignUp.pdb
